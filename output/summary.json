@@ -1,0 +1,131 @@
+{
+  "total_records": 30,
+  "valid_records": 25,
+  "rejected_records": 5,
+  "corrections": [
+    {
+      "id": "REQ-005",
+      "field": "date",
+      "from": "14/02/2026",
+      "to": "2026-02-14"
+    },
+    {
+      "id": "REQ-006",
+      "field": "amount",
+      "from": "3 200,00",
+      "to": 3200.0
+    },
+    {
+      "id": "REQ-009",
+      "field": "currency",
+      "from": "gel",
+      "to": "GEL"
+    },
+    {
+      "id": "REQ-012",
+      "field": "date",
+      "from": "2026.04.02",
+      "to": "2026-04-02"
+    },
+    {
+      "id": "REQ-018",
+      "field": "date",
+      "from": "5 მაისი 2026",
+      "to": "2026-05-05"
+    },
+    {
+      "id": "REQ-019",
+      "field": "currency",
+      "from": "$",
+      "to": "USD"
+    },
+    {
+      "id": "REQ-027",
+      "field": "amount",
+      "from": "350 ლარი",
+      "to": 350.0
+    },
+    {
+      "id": "REQ-027",
+      "field": "currency",
+      "from": null,
+      "to": "GEL"
+    }
+  ],
+  "requests_by_month": {
+    "2026-01": 3,
+    "2026-02": 4,
+    "2026-03": 3,
+    "2026-04": 3,
+    "2026-05": 4,
+    "2026-06": 3,
+    "2026-07": 2,
+    "2026-08": 2,
+    "2026-09": 1
+  },
+  "requests_by_channel": {
+    "call": 6,
+    "email": 8,
+    "web": 11
+  },
+  "requests_by_month_and_channel": {
+    "2026-01": {
+      "call": 1,
+      "email": 1,
+      "web": 1
+    },
+    "2026-02": {
+      "call": 1,
+      "email": 1,
+      "web": 2
+    },
+    "2026-03": {
+      "call": 1,
+      "web": 2
+    },
+    "2026-04": {
+      "email": 2,
+      "web": 1
+    },
+    "2026-05": {
+      "call": 1,
+      "email": 1,
+      "web": 2
+    },
+    "2026-06": {
+      "email": 1,
+      "web": 2
+    },
+    "2026-07": {
+      "call": 1,
+      "email": 1
+    },
+    "2026-08": {
+      "email": 1,
+      "web": 1
+    },
+    "2026-09": {
+      "call": 1
+    }
+  },
+  "average_amount_by_currency": {
+    "EUR": {
+      "count": 2,
+      "average": 477.5,
+      "count_nonzero": 2,
+      "average_nonzero": 477.5
+    },
+    "GEL": {
+      "count": 21,
+      "average": 796.43,
+      "count_nonzero": 14,
+      "average_nonzero": 1194.64
+    },
+    "USD": {
+      "count": 2,
+      "average": 775.0,
+      "count_nonzero": 2,
+      "average_nonzero": 775.0
+    }
+  }
+}
