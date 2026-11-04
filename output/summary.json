@@ -127,5 +127,16 @@
       "count_nonzero": 2,
       "average_nonzero": 775.0
     }
-  }
+  },
+  "conversion": {
+    "converted_records": 25,
+    "not_converted_records": 0,
+    "rate_source_counts": {
+      "gel": 21,
+      "nbg_request_date": 4
+    }
+  },
+  "average_amount_gel": 954.74,
+  "average_amount_gel_nonzero": 1326.03,
+  "total_amount_gel": 23868.61
 }

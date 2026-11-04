@@ -5,7 +5,10 @@
     "channel": "web",
     "text": "გუშინ ავარიაში მოვყევი, მანქანის წინა ბამპერი და ფარა დაზიანდა. როგორ დავაფიქსირო ზარალი?",
     "amount": 1850.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 1850.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-002",
@@ -13,7 +16,10 @@
     "channel": "email",
     "text": "მაინტერესებს, ჯანმრთელობის დაზღვევა ფარავს თუ არა სტომატოლოგიურ მომსახურებას?",
     "amount": 600.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 600.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-003",
@@ -21,7 +27,10 @@
     "channel": "call",
     "text": "ზარალის ანაზღაურებას უკვე ერთი თვეა ველოდები და არავინ მპასუხობს. ძალიან უკმაყოფილო ვარ.",
     "amount": 2400.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 2400.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-004",
@@ -29,7 +38,10 @@
     "channel": "web",
     "text": "თურქეთში მოგზაურობისას აეროპორტში ბარგი დამეკარგა. რა საბუთები მჭირდება ანაზღაურებისთვის?",
     "amount": 450.0,
-    "currency": "USD"
+    "currency": "USD",
+    "rate": 2.6902,
+    "amount_gel": 1210.59,
+    "rate_source": "nbg_request_date"
   },
   {
     "id": "REQ-005",
@@ -37,7 +49,10 @@
     "channel": "web",
     "text": "რა ღირს სამოგზაურო დაზღვევა ევროპაში 10 დღით?",
     "amount": 35.0,
-    "currency": "EUR"
+    "currency": "EUR",
+    "rate": 3.1782,
+    "amount_gel": 111.24,
+    "rate_source": "nbg_request_date"
   },
   {
     "id": "REQ-006",
@@ -45,7 +60,10 @@
     "channel": "email",
     "text": "მეზობლის ბინიდან წყალი ჩამოვიდა, ჭერი და იატაკი დაზიანდა.",
     "amount": 3200.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 3200.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-007",
@@ -53,7 +71,10 @@
     "channel": "call",
     "text": "გთხოვთ, სისტემაში ჩემი საკონტაქტო ტელეფონის ნომერი შეცვალოთ.",
     "amount": 0.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 0.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-008",
@@ -61,7 +82,10 @@
     "channel": "call",
     "text": "ოპერატორი უხეშად მესაუბრა და ჩემი პრობლემა არ გადაუჭრია.",
     "amount": 0.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 0.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-009",
@@ -69,7 +93,10 @@
     "channel": "web",
     "text": "კლინიკაში MRI კვლევა გავიკეთე და მინდა თანხის ანაზღაურება.",
     "amount": 380.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 380.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-010",
@@ -77,7 +104,10 @@
     "channel": "web",
     "text": "შესაძლებელია თუ არა პოლისის ონლაინ გაგრძელება?",
     "amount": 1200.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 1200.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-012",
@@ -85,7 +115,10 @@
     "channel": "email",
     "text": "ესპანეთში ყოფნისას საავადმყოფოში მომიწია მისვლა და მკურნალობის თანხა თავად გადავიხადე.",
     "amount": 920.0,
-    "currency": "EUR"
+    "currency": "EUR",
+    "rate": 3.1318,
+    "amount_gel": 2881.26,
+    "rate_source": "nbg_request_date"
   },
   {
     "id": "REQ-013",
@@ -93,7 +126,10 @@
     "channel": "email",
     "text": "ანაზღაურებული თანხა ნაკლებია, ვიდრე ხელშეკრულებით მეკუთვნოდა.",
     "amount": 700.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 700.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-014",
@@ -101,7 +137,10 @@
     "channel": "web",
     "text": "რა განსხვავებაა ჯანმრთელობის სტანდარტულ და პრემიუმ პაკეტებს შორის?",
     "amount": 900.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 900.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-016",
@@ -109,7 +148,10 @@
     "channel": "web",
     "text": "სახლში ქურდობა მოხდა, წაიღეს ლეპტოპი და ტელევიზორი. პოლიციაში უკვე განვაცხადე.",
     "amount": 4100.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 4100.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-017",
@@ -117,7 +159,10 @@
     "channel": "email",
     "text": "დიდი მადლობა თქვენს თანამშრომელს სწრაფი დახმარებისთვის!",
     "amount": 0.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 0.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-018",
@@ -125,7 +170,10 @@
     "channel": "call",
     "text": "რა ვადაში უნდა შეგატყობინოთ ზარალის შესახებ?",
     "amount": 0.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 0.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-019",
@@ -133,7 +181,10 @@
     "channel": "web",
     "text": "სეტყვამ მანქანის კაპოტი და სახურავი დააზიანა.",
     "amount": 1100.0,
-    "currency": "USD"
+    "currency": "USD",
+    "rate": 2.6732,
+    "amount_gel": 2940.52,
+    "rate_source": "nbg_request_date"
   },
   {
     "id": "REQ-020",
@@ -141,7 +192,10 @@
     "channel": "web",
     "text": "მობილური აპლიკაცია მუდმივად ითიშება და პოლისს ვერ ვხედავ.",
     "amount": 0.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 0.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-021",
@@ -149,7 +203,10 @@
     "channel": "email",
     "text": "შემიძლია ჩემს ჯანმრთელობის პოლისში შვილის დამატება?",
     "amount": 300.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 300.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-022",
@@ -157,7 +214,10 @@
     "channel": "web",
     "text": "ფეხბურთის თამაშისას ფეხი ვიღრძე, დამჭირდა რენტგენი და ორთოპედის კონსულტაცია.",
     "amount": 260.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 260.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-025",
@@ -165,7 +225,10 @@
     "channel": "email",
     "text": "Hello, can I get my policy documents in English?",
     "amount": 0.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 0.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-026",
@@ -173,7 +236,10 @@
     "channel": "call",
     "text": "ყოველთვიური შენატანი ბარათიდან ორჯერ ჩამომეჭრა.",
     "amount": 85.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 85.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-027",
@@ -181,7 +247,10 @@
     "channel": "web",
     "text": "რეისი 12 საათით გადაიდო და სასტუმროს დამატებითი ხარჯი გავწიე.",
     "amount": 350.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 350.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-028",
@@ -189,7 +258,10 @@
     "channel": "email",
     "text": "მინდა დაზღვევის ხელშეკრულების შეწყვეტა.",
     "amount": 0.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 0.0,
+    "rate_source": "gel"
   },
   {
     "id": "REQ-029",
@@ -197,6 +269,9 @@
     "channel": "call",
     "text": "ზარალის განაცხადი ორი კვირის წინ შევიტანე, მანქანის სარკე დამიზიანდა და ჯერ არავინ დამკავშირებია.",
     "amount": 400.0,
-    "currency": "GEL"
+    "currency": "GEL",
+    "rate": 1.0,
+    "amount_gel": 400.0,
+    "rate_source": "gel"
   }
 ]

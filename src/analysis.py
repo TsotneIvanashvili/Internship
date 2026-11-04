@@ -41,3 +41,20 @@ def build_statistics(valid):
         "average_amount_by_currency": average_amount,
     }
 
+
+
+def build_gel_statistics(records):
+    """Statistics after Part 2 conversion (amount_gel)."""
+    sources = Counter(r["rate_source"] for r in records)
+    gel = [r["amount_gel"] for r in records if r["amount_gel"] is not None]
+    nonzero = [v for v in gel if v > 0]
+    return {
+        "conversion": {
+            "converted_records": len(gel),
+            "not_converted_records": len(records) - len(gel),
+            "rate_source_counts": dict(sorted(sources.items())),
+        },
+        "average_amount_gel": _avg(gel),
+        "average_amount_gel_nonzero": _avg(nonzero),
+        "total_amount_gel": round(sum(gel), 2),
+    }
