@@ -138,5 +138,11 @@
   },
   "average_amount_gel": 954.74,
   "average_amount_gel_nonzero": 1326.03,
-  "total_amount_gel": 23868.61
+  "total_amount_gel": 23868.61,
+  "requests_by_category": {
+    "ზარალი": 8,
+    "ინფორმაციის მოთხოვნა": 8,
+    "საჩივარი": 6,
+    "სხვა": 3
+  }
 }

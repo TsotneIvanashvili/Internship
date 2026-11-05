@@ -58,3 +58,9 @@ def build_gel_statistics(records):
         "average_amount_gel_nonzero": _avg(nonzero),
         "total_amount_gel": round(sum(gel), 2),
     }
+
+
+def build_category_statistics(records):
+    """Part 3: number of requests per LLM category."""
+    counts = Counter(r["category"] or "unclassified" for r in records)
+    return {"requests_by_category": dict(counts.most_common())}

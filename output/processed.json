@@ -8,7 +8,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 1850.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "ზარალი",
+    "category_reason": "მომხმარებელი აცხადებს სადაზღვევო შემთხვევას და ითხოვს ზარალის დაფიქსირების პროცედურის განმარტებას."
   },
   {
     "id": "REQ-002",
@@ -19,7 +21,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 600.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "ინფორმაციის მოთხოვნა",
+    "category_reason": "მომხმარებელი სვამს კითხვას სადაზღვევო პოლისით გათვალისწინებული დაფარვის შესახებ."
   },
   {
     "id": "REQ-003",
@@ -30,7 +34,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 2400.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "საჩივარი",
+    "category_reason": "მომხმარებელი უკმაყოფილოა ანაზღაურების პროცესის გაჭიანურებით და კომუნიკაციის ნაკლებობით."
   },
   {
     "id": "REQ-004",
@@ -41,7 +47,9 @@
     "currency": "USD",
     "rate": 2.6902,
     "amount_gel": 1210.59,
-    "rate_source": "nbg_request_date"
+    "rate_source": "nbg_request_date",
+    "category": "ინფორმაციის მოთხოვნა",
+    "category_reason": "მომხმარებელი ითხოვს ინფორმაციას ანაზღაურების პროცედურისა და საჭირო დოკუმენტაციის შესახებ."
   },
   {
     "id": "REQ-005",
@@ -52,7 +60,9 @@
     "currency": "EUR",
     "rate": 3.1782,
     "amount_gel": 111.24,
-    "rate_source": "nbg_request_date"
+    "rate_source": "nbg_request_date",
+    "category": "ინფორმაციის მოთხოვნა",
+    "category_reason": "მომხმარებელი ინტერესდება დაზღვევის ფასით კონკრეტული პერიოდისთვის."
   },
   {
     "id": "REQ-006",
@@ -63,7 +73,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 3200.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "ზარალი",
+    "category_reason": "მომხმარებელი აცხადებს სადაზღვევო შემთხვევას ქონების დაზიანების შესახებ."
   },
   {
     "id": "REQ-007",
@@ -74,7 +86,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 0.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "სხვა",
+    "category_reason": "მომხმარებელი ითხოვს პერსონალური მონაცემების ცვლილებას, რაც არც ზარალს, არც საჩივარს და არც ინფორმაციის მოთხოვნას არ განეკუთვნება."
   },
   {
     "id": "REQ-008",
@@ -85,7 +99,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 0.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "საჩივარი",
+    "category_reason": "მომხმარებელი უკმაყოფილოა თანამშრომლის ქცევით და მომსახურების ხარისხით."
   },
   {
     "id": "REQ-009",
@@ -96,7 +112,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 380.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "ზარალი",
+    "category_reason": "მომხმარებელი ითხოვს სამედიცინო მომსახურების ხარჯების ანაზღაურებას."
   },
   {
     "id": "REQ-010",
@@ -107,7 +125,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 1200.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "ინფორმაციის მოთხოვნა",
+    "category_reason": "მომხმარებელი სვამს კითხვას პოლისის განახლების პროცედურის შესახებ."
   },
   {
     "id": "REQ-012",
@@ -118,7 +138,9 @@
     "currency": "EUR",
     "rate": 3.1318,
     "amount_gel": 2881.26,
-    "rate_source": "nbg_request_date"
+    "rate_source": "nbg_request_date",
+    "category": "ზარალი",
+    "category_reason": "მომხმარებელი აცხადებს სადაზღვევო შემთხვევას და ითხოვს გაწეული სამედიცინო ხარჯების ანაზღაურებას."
   },
   {
     "id": "REQ-013",
@@ -129,7 +151,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 700.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "საჩივარი",
+    "category_reason": "მომხმარებელი უკმაყოფილოა ანაზღაურებული თანხის ოდენობით და მიიჩნევს, რომ ის არ შეესაბამება ხელშეკრულების პირობებს."
   },
   {
     "id": "REQ-014",
@@ -140,7 +164,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 900.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "ინფორმაციის მოთხოვნა",
+    "category_reason": "მომხმარებელი ითხოვს ინფორმაციას სადაზღვევო პროდუქტების პირობების შესახებ."
   },
   {
     "id": "REQ-016",
@@ -151,7 +177,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 4100.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "ზარალი",
+    "category_reason": "მომხმარებელი აცხადებს სადაზღვევო შემთხვევას ქურდობის ფაქტთან დაკავშირებით."
   },
   {
     "id": "REQ-017",
@@ -162,7 +190,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 0.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "სხვა",
+    "category_reason": "მომხმარებელი გამოხატავს მადლიერებას და არ აფიქსირებს კონკრეტულ მოთხოვნას ან პრეტენზიას."
   },
   {
     "id": "REQ-018",
@@ -173,7 +203,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 0.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "ინფორმაციის მოთხოვნა",
+    "category_reason": "მომხმარებელი ინტერესდება პროცედურული ვადებით და არა კონკრეტული ზარალის დარეგისტრირებით."
   },
   {
     "id": "REQ-019",
@@ -184,7 +216,9 @@
     "currency": "USD",
     "rate": 2.6732,
     "amount_gel": 2940.52,
-    "rate_source": "nbg_request_date"
+    "rate_source": "nbg_request_date",
+    "category": "ზარალი",
+    "category_reason": "მომხმარებელი აცხადებს სადაზღვევო შემთხვევას სტიქიური მოვლენით მიყენებული ზიანის შესახებ."
   },
   {
     "id": "REQ-020",
@@ -195,7 +229,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 0.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "საჩივარი",
+    "category_reason": "მომხმარებელი უკმაყოფილოა აპლიკაციის ტექნიკური ხარვეზით."
   },
   {
     "id": "REQ-021",
@@ -206,7 +242,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 300.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "ინფორმაციის მოთხოვნა",
+    "category_reason": "მომხმარებელი სვამს კითხვას პოლისის პირობების და პროცედურის შესახებ."
   },
   {
     "id": "REQ-022",
@@ -217,7 +255,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 260.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "ზარალი",
+    "category_reason": "მომხმარებელი აცხადებს სადაზღვევო შემთხვევას ჯანმრთელობის დაზიანებასთან დაკავშირებით."
   },
   {
     "id": "REQ-025",
@@ -228,7 +268,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 0.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "ინფორმაციის მოთხოვნა",
+    "category_reason": "მომხმარებელი ითხოვს დამატებით ინფორმაციას ან დოკუმენტაციას პოლისის შესახებ."
   },
   {
     "id": "REQ-026",
@@ -239,7 +281,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 85.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "საჩივარი",
+    "category_reason": "მომხმარებელი უკმაყოფილოა ფინანსური ხარვეზით, კერძოდ თანხის ორჯერ ჩამოჭრით."
   },
   {
     "id": "REQ-027",
@@ -250,7 +294,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 350.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "ზარალი",
+    "category_reason": "მომხმარებელი ითხოვს რეისის გადადებით გამოწვეული დამატებითი ხარჯების ანაზღაურებას."
   },
   {
     "id": "REQ-028",
@@ -261,7 +307,9 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 0.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "სხვა",
+    "category_reason": "ხელშეკრულების შეწყვეტა არ მიეკუთვნება ზარალის, საჩივრის ან ინფორმაციის მოთხოვნის კატეგორიებს."
   },
   {
     "id": "REQ-029",
@@ -272,6 +320,8 @@
     "currency": "GEL",
     "rate": 1.0,
     "amount_gel": 400.0,
-    "rate_source": "gel"
+    "rate_source": "gel",
+    "category": "საჩივარი",
+    "category_reason": "მომხმარებელი უკმაყოფილოა სადაზღვევო შემთხვევის განხილვის დაგვიანებით."
   }
 ]
